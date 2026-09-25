@@ -13,7 +13,7 @@ Business process improvement
 Risk control and escalation design
 Training and knowledge transfer
 Featured portfolio
-See my public repository: Legal Operations & AI Workflow Portfolio
+See my public repository: [Legal Operations & AI Workflow Portfolio] (https://github.com/MICHAELAPAYTONJD/legal-operations-ai-workflow-protfolio)
 The repository contains sanitized examples of:
 AI-enabled legal operations automation
 Default Judgment risk-control analysis
